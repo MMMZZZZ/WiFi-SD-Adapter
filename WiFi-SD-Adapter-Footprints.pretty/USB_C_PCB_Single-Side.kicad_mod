@@ -13,6 +13,8 @@
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp b2093838-099c-4cbb-b514-30e8193aaf53)
   )
+  (fp_rect (start -3.2 0) (end 3.2 5.8)
+    (stroke (width 0) (type solid)) (fill solid) (layer "B.Mask") (tstamp b68bbe1e-c0ee-47d9-950d-c21d59b9ad5c))
   (fp_poly
     (pts
       (xy -3.2 0)
@@ -21,9 +23,7 @@
       (xy -3.2 6.2)
     )
 
-    (stroke (width 0.1) (type solid)) (fill none) (layer "F.SilkS") (tstamp 5be97c09-1f46-48e0-9903-ec1be2d5fa03))
-  (fp_rect (start -3.2 0) (end 3.2 5.8)
-    (stroke (width 0) (type solid)) (fill solid) (layer "B.Mask") (tstamp b68bbe1e-c0ee-47d9-950d-c21d59b9ad5c))
+    (stroke (width 0.1) (type solid)) (fill none) (layer "F.Fab") (tstamp 5be97c09-1f46-48e0-9903-ec1be2d5fa03))
   (pad "A1" smd rect (at 2.75 3.05) (size 0.3 5.5) (layers "F.Cu" "F.Mask")
     (clearance 0.2) (thermal_bridge_angle 45) (tstamp 35c6b672-dbf0-4c32-b107-13b1fa029b4d))
   (pad "A2" smd rect (at 2.25 3.3) (size 0.3 5) (layers "F.Cu" "F.Mask")
