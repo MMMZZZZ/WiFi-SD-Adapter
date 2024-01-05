@@ -34,9 +34,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.762,
-          "height": 1.524,
-          "width": 1.524
+          "drill": 0.0,
+          "height": 1.83,
+          "width": 1.14
         },
         "silk_line_width": 0.155,
         "silk_text_italic": false,
@@ -496,7 +496,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "WiFi-SD-Adapter.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
