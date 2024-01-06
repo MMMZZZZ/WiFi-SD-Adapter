@@ -6,7 +6,7 @@ microSD to SD adapter with an ESP32-C3 "inbetween". It allows wireless access to
 
 Includes a single-sided USB C connector for programming. Might only work on a USB A host port though because it's single-sided. The single-sided is necessary to not become too thick for a USB C connector. 
 
-Gerbers, [iBOM](https://htmlpreview.github.io/?https%3A%2F%2Fgithub.com%2FMMMZZZZ%2FWiFi-SD-Adapter%2Fblob%2Fmain%2FExported%2FWiFi-SD-Adapter-iBom.html), etc. can be found in the [Exported](/Exported) folder. 
+Gerbers, [iBOM](https://htmlpreview.github.io/?https://github.com/MMMZZZZ/WiFi-SD-Adapter/blob/main/Exported/WiFi-SD-Adapter-iBom.html), etc. can be found in the [Exported](/Exported) folder. 
 
 ## Pics
 
