@@ -10,11 +10,11 @@ Gerbers, [iBOM](https://htmlpreview.github.io/?https%3A%2F%2Fgithub.com%2FMMMZZZ
 
 ## Pics
 
-![3D Rendering Top](/Exported/3D%20Rendering%Top.png)
+![3D Rendering Top](/Exported/3D%20Rendering%20Top.png)
 
-![3D Rendering Bottom](/Exported/3D%20Rendering%Bottom.png)
+![3D Rendering Bottom](/Exported/3D%20Rendering%20Bottom.png)
 
-![PCB Layout Top](/Exported/PCB%Layout%Top.png)
+![PCB Layout Top](/Exported/PCB%20Layout%20Top.png)
 
 ![Schematic](/Exported/Schematic.png)
 
