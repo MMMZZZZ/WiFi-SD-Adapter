@@ -10,7 +10,7 @@
     (date "2024-01-05")
     (rev "v2.1.0")
     (company "Author: Max Zuidberg")
-    (comment 1 "License: CERN-OHL-W")
+    (comment 1 "License: CERN-OHL-W v2 or later")
   )
 
   (layers
