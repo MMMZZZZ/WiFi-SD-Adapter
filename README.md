@@ -20,6 +20,8 @@ Gerbers, [iBOM](https://htmlpreview.github.io/?https://github.com/MMMZZZZ/WiFi-S
 
 ## License
 
+This project uses third-party libraries for parts and footprints (all located in the [Mouser-Parts](/Mouser-Parts) folder) to which the following licensing information may not apply. 
+
 Copyright Max Zuidberg 2023.
 
 This source describes Open Hardware and is licensed under the CERN-OHL-W v2 or later.
