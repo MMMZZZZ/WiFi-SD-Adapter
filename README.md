@@ -10,13 +10,11 @@ Gerbers, [iBOM](https://htmlpreview.github.io/?https://github.com/MMMZZZZ/WiFi-S
 
 ## Pics
 
-![3D Rendering Top](/Exported/3D%20Rendering%20Top.png)
+| ![3D Rendering Top](/Exported/3D%20Rendering%20Top.png) | ![3D Rendering Bottom](/Exported/3D%20Rendering%20Bottom.png) |
+|--|--|
 
-![3D Rendering Bottom](/Exported/3D%20Rendering%20Bottom.png)
-
-![PCB Layout Top](/Exported/PCB%20Layout%20Top.png)
-
-![Schematic](/Exported/Schematic.png)
+| ![PCB Layout Top](/Exported/PCB%20Layout%20Top.png) | ![Schematic](/Exported/Schematic.png) |
+|--|--|
 
 ## License
 
